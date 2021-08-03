@@ -1,0 +1,22 @@
+
+
+h1 {
+  text-align: center;
+  color: rebeccapurple;
+  padding-top: 60px;
+  font-size: xx-large;
+}
+
+body {
+  text-align: center;
+}
+
+ul {
+  font-size: medium;
+  font-weight: 900;
+}
+
+p {
+  font-size: medium;
+  line-height: 30px;
+}
